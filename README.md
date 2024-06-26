@@ -1,4 +1,4 @@
-[![MasterHead](https://hypernet.com.tr/dimg/icerik/293732243425900284632.png)
+[![MasterHead](https://www.creodive.com.tr/wp-content/uploads/programlama-dilleri-1.jpeg)
 
 <h1 align="center">Hi 👋, I'm Mehmet Sidar</h1>
 <h3 align="center">Software Developer</h3>
