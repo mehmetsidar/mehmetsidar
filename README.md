@@ -1,4 +1,4 @@
-[![MasterHead](https://novasta.com.tr/2022nin-populer-programlama-dilleri/)
+[![MasterHead](https://novasta.com.tr/wp-content/uploads/2022nin-populer-programlama-dilleri-novasta-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Mehmet Sidar</h1>
 <h3 align="center">Software Developer</h3>
